@@ -1,0 +1,12 @@
+{
+    "IN": {
+      "countryName": "India",
+      "currencyName": "Indian Rupee",
+      "currencyCode": "INR"
+  },
+    "US": {
+      "countryName": "United States of America",
+      "currencyName": "United States Dollar",
+      "currencyCode": "USD"
+    }
+}
